@@ -26,7 +26,7 @@ o run the project in your local environment, follow these steps:
 5. Run `npm run dev` or `yarn dev` to get the project started.
 6. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
-# Your default web browser should open the application automatically.
+Your default web browser should open the application automatically.
 
 Any question?! Reach out to me.
 
