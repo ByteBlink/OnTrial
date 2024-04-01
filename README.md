@@ -1,3 +1,5 @@
+![Header](./assets/header_img.png)
+
 # onTrial - Easily manage your subscriptions!
 
 Take control of your subscriptions with OnTrial Subscription Tracker! Easily manage and monitor your subscriptions, and stay ahead of billing dates with timely notifications. Simplicity and awareness, all in one app
@@ -10,10 +12,13 @@ Take control of your subscriptions with OnTrial Subscription Tracker! Easily man
 
 ## 🛠️ Prerequisites
 
-- React.js
-- Node.js (version 14+ recommended)
-- MongoDB (local installation or MongoDB Atlas cluster)
-- Express
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src='https://img.icons8.com/color/48/chakra-ui.png' alt="chakra-ui" width="55" height="55">
+</p>
 
 ## 🚦 Running the Project
 
@@ -33,3 +38,16 @@ Any question?! Reach out to me.
 ## 📸 Video
 
 https://github.com/ByteBlink/OnTrial-Subscriptions-Tracker/assets/113640221/1bf0bca7-7b86-402d-8806-582e1ba7a7ce
+
+## Contributions
+
+Our amazing team:
+
+<table>
+  <tr>
+     <td align="center" ><a href="https://github.com/ByteBlink"><img src="https://github.com/ByteBlink.png" style="border-radius:50%;" width="120px;" alt="enes-img"/><br /><sub><b><a href="https://www.linkedin.com/in/jakupienes/" title="linkedin">Enes Jakupi</a></b></sub></a><br /><a href="https://github.com/rollokd/splitease/commits?author=ByteBlink" title="Code">💻</a> <a href="#ideas-ByteBlink" title="Ideas & Planning">🤔</a>  <a href="#design-ByteBlink" title="Design">🎨</a></td>
+     <td align="center" ><a href="https://github.com/rollokd"><img src="https://github.com/rollokd.png" style="border-radius:50%;" width="120px;" alt="rollo-img"/><br /><sub><b><a href="https://www.linkedin.com/in/rollo-kennedy-dyson" title="linkedin">Rollo Kennedy-Dyson</a></b></sub></a><br /> <a href="#review-rollokd" title="Reviewed Pull Requests">👀</a> <a href="#maintain-rollokd" title="Maintenance">🚧</a> <a href="#tests-rollokd" title="Tests">⚠️</a> <a href="#user-testing-rollokd" title="User Testing" >📓</a></td>
+     <td align="center" ><a href="https://github.com/Anloms"><img src="https://github.com/Anloms.png" style="border-radius:50%;" width="120px;" alt="ola-img"/><br /><sub><b><a href="https://www.linkedin.com/in/ola-smolna/" title="linkedin">Ola Smolna</a></b></sub></a><br /> <a href="#review-anloms" title="Reviewed Pull Requests">👀</a>  <a href="#maintain-anloms" title="Maintenance">🚧</a> <a href="#tests-anloms" title="Tests">⚠️</a> <a href="#user-testing-anloms" title="User Testing" >📓</a></td>
+     
+  </tr>
+</table>
